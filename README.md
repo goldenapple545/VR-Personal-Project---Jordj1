@@ -1,4 +1,4 @@
-# VR-Personal-Project---Jordj1
+# VR-Quest-Room
 
 This is a project created for Unity Learn.
-The player can meditate in a space environment
+The player will complete quests and solve riddles
