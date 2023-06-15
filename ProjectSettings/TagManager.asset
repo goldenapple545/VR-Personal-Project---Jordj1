@@ -5,14 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Hand
+  - Card
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Card
   - Water
   - UI
-  - 
+  - Key
   - 
   - 
   - 
